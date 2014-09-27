@@ -1,10 +1,10 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/blocks\/\*\.png}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/blocks\/\*\.png}line{font-family:\0000356}}
 .blocks-sprite {
   background-image: url('../img/blocks-sef69e0f7cb.png');
   background-repeat: no-repeat;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\000031}}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,27 +23,27 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   background: transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000319}}
 html {
   -webkit-font-smoothing: antialiased;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000323}}
 body {
   line-height: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000327}}
 ol, ul {
   list-style: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000331}}
 blockquote, q {
   quotes: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000335}}
 blockquote:before,
 blockquote:after,
 q:before,
@@ -53,323 +53,341 @@ q:after {
 }
 
 /* remember to define focus styles! */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000344}}
 :focus {
   outline: 0;
 }
 
 /* remember to highlight inserts somehow! */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000349}}
 ins {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000353}}
 del {
   text-decoration: line-through;
 }
 
 /* tables still need "cellspacing="0"" in the markup */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000358}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000363}}
 textarea {
   overflow: auto;
   /* for IE */
   resize: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000368}}
 fieldset {
   border: 0 solid transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000372}}
 input {
   border: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_reset\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_reset\.scss}line{font-family:\0000376}}
 button::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_global\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_global\.scss}line{font-family:\000033}}
 html, body {
   height: 100%;
   min-width: 1024px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_global\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_global\.scss}line{font-family:\0000310}}
 html {
   font-size: 100.01%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_global\.scss}line{font-family:\0000314}}
+.header {
+  font-size: 16rem;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  z-index: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_global\.scss}line{font-family:\0000322}}
+.subheader {
+  font-size: 6rem;
+  color: #f48f8f;
+}
+
 @-moz-keyframes glitch {
   0% {
-    -moz-transform: skew(47deg);
-    transform: skew(47deg);
+    -moz-transform: skew(-18deg);
+    transform: skew(-18deg);
   }
   5% {
-    -moz-transform: skew(-53deg);
-    transform: skew(-53deg);
+    -moz-transform: skew(-60deg);
+    transform: skew(-60deg);
   }
   10% {
-    -moz-transform: skew(-16deg);
-    transform: skew(-16deg);
+    -moz-transform: skew(35deg);
+    transform: skew(35deg);
   }
   15% {
-    -moz-transform: skew(58deg);
-    transform: skew(58deg);
+    -moz-transform: skew(64deg);
+    transform: skew(64deg);
   }
   20% {
-    -moz-transform: skew(46deg);
-    transform: skew(46deg);
+    -moz-transform: skew(-40deg);
+    transform: skew(-40deg);
   }
   25% {
-    -moz-transform: skew(-1deg);
-    transform: skew(-1deg);
-  }
-  30% {
-    -moz-transform: skew(-19deg);
-    transform: skew(-19deg);
-  }
-  35% {
-    -moz-transform: skew(-78deg);
-    transform: skew(-78deg);
-  }
-  40% {
-    -moz-transform: skew(-50deg);
-    transform: skew(-50deg);
-  }
-  45% {
-    -moz-transform: skew(-23deg);
-    transform: skew(-23deg);
-  }
-  50% {
-    -moz-transform: skew(71deg);
-    transform: skew(71deg);
-  }
-  55% {
-    -moz-transform: skew(32deg);
-    transform: skew(32deg);
-  }
-  60% {
-    -moz-transform: skew(-7deg);
-    transform: skew(-7deg);
-  }
-  65% {
-    -moz-transform: skew(-19deg);
-    transform: skew(-19deg);
-  }
-  70% {
-    -moz-transform: skew(-38deg);
-    transform: skew(-38deg);
-  }
-  75% {
-    -moz-transform: skew(49deg);
-    transform: skew(49deg);
-  }
-  80% {
-    -moz-transform: skew(19deg);
-    transform: skew(19deg);
-  }
-  85% {
     -moz-transform: skew(-10deg);
     transform: skew(-10deg);
   }
+  30% {
+    -moz-transform: skew(-57deg);
+    transform: skew(-57deg);
+  }
+  35% {
+    -moz-transform: skew(-23deg);
+    transform: skew(-23deg);
+  }
+  40% {
+    -moz-transform: skew(13deg);
+    transform: skew(13deg);
+  }
+  45% {
+    -moz-transform: skew(-29deg);
+    transform: skew(-29deg);
+  }
+  50% {
+    -moz-transform: skew(-20deg);
+    transform: skew(-20deg);
+  }
+  55% {
+    -moz-transform: skew(-31deg);
+    transform: skew(-31deg);
+  }
+  60% {
+    -moz-transform: skew(-10deg);
+    transform: skew(-10deg);
+  }
+  65% {
+    -moz-transform: skew(45deg);
+    transform: skew(45deg);
+  }
+  70% {
+    -moz-transform: skew(-57deg);
+    transform: skew(-57deg);
+  }
+  75% {
+    -moz-transform: skew(21deg);
+    transform: skew(21deg);
+  }
+  80% {
+    -moz-transform: skew(73deg);
+    transform: skew(73deg);
+  }
+  85% {
+    -moz-transform: skew(1deg);
+    transform: skew(1deg);
+  }
   90% {
-    -moz-transform: skew(33deg);
-    transform: skew(33deg);
+    -moz-transform: skew(73deg);
+    transform: skew(73deg);
   }
   95% {
-    -moz-transform: skew(59deg);
-    transform: skew(59deg);
+    -moz-transform: skew(47deg);
+    transform: skew(47deg);
   }
 }
 @-webkit-keyframes glitch {
   0% {
-    -webkit-transform: skew(-6deg);
-    transform: skew(-6deg);
+    -webkit-transform: skew(37deg);
+    transform: skew(37deg);
   }
   5% {
-    -webkit-transform: skew(-62deg);
-    transform: skew(-62deg);
+    -webkit-transform: skew(40deg);
+    transform: skew(40deg);
   }
   10% {
     -webkit-transform: skew(37deg);
     transform: skew(37deg);
   }
   15% {
-    -webkit-transform: skew(87deg);
-    transform: skew(87deg);
+    -webkit-transform: skew(-56deg);
+    transform: skew(-56deg);
   }
   20% {
-    -webkit-transform: skew(-73deg);
-    transform: skew(-73deg);
+    -webkit-transform: skew(31deg);
+    transform: skew(31deg);
   }
   25% {
-    -webkit-transform: skew(59deg);
-    transform: skew(59deg);
+    -webkit-transform: skew(-67deg);
+    transform: skew(-67deg);
   }
   30% {
-    -webkit-transform: skew(1deg);
-    transform: skew(1deg);
+    -webkit-transform: skew(-65deg);
+    transform: skew(-65deg);
   }
   35% {
-    -webkit-transform: skew(-64deg);
-    transform: skew(-64deg);
+    -webkit-transform: skew(-48deg);
+    transform: skew(-48deg);
   }
   40% {
-    -webkit-transform: skew(-56deg);
-    transform: skew(-56deg);
+    -webkit-transform: skew(-11deg);
+    transform: skew(-11deg);
   }
   45% {
-    -webkit-transform: skew(44deg);
-    transform: skew(44deg);
+    -webkit-transform: skew(-63deg);
+    transform: skew(-63deg);
   }
   50% {
-    -webkit-transform: skew(6deg);
-    transform: skew(6deg);
+    -webkit-transform: skew(-41deg);
+    transform: skew(-41deg);
   }
   55% {
-    -webkit-transform: skew(-38deg);
-    transform: skew(-38deg);
+    -webkit-transform: skew(-65deg);
+    transform: skew(-65deg);
   }
   60% {
-    -webkit-transform: skew(-56deg);
-    transform: skew(-56deg);
+    -webkit-transform: skew(-19deg);
+    transform: skew(-19deg);
   }
   65% {
-    -webkit-transform: skew(-42deg);
-    transform: skew(-42deg);
+    -webkit-transform: skew(76deg);
+    transform: skew(76deg);
   }
   70% {
-    -webkit-transform: skew(-86deg);
-    transform: skew(-86deg);
+    -webkit-transform: skew(68deg);
+    transform: skew(68deg);
   }
   75% {
-    -webkit-transform: skew(58deg);
-    transform: skew(58deg);
+    -webkit-transform: skew(77deg);
+    transform: skew(77deg);
   }
   80% {
-    -webkit-transform: skew(-89deg);
-    transform: skew(-89deg);
+    -webkit-transform: skew(9deg);
+    transform: skew(9deg);
   }
   85% {
-    -webkit-transform: skew(-66deg);
-    transform: skew(-66deg);
+    -webkit-transform: skew(7deg);
+    transform: skew(7deg);
   }
   90% {
-    -webkit-transform: skew(-3deg);
-    transform: skew(-3deg);
+    -webkit-transform: skew(-17deg);
+    transform: skew(-17deg);
   }
   95% {
-    -webkit-transform: skew(42deg);
-    transform: skew(42deg);
+    -webkit-transform: skew(-6deg);
+    transform: skew(-6deg);
   }
 }
 @keyframes glitch {
   0% {
-    -moz-transform: skew(62deg);
-    -ms-transform: skew(62deg);
-    -webkit-transform: skew(62deg);
-    transform: skew(62deg);
+    -moz-transform: skew(-43deg);
+    -ms-transform: skew(-43deg);
+    -webkit-transform: skew(-43deg);
+    transform: skew(-43deg);
   }
   5% {
-    -moz-transform: skew(73deg);
-    -ms-transform: skew(73deg);
-    -webkit-transform: skew(73deg);
-    transform: skew(73deg);
-  }
-  10% {
-    -moz-transform: skew(-50deg);
-    -ms-transform: skew(-50deg);
-    -webkit-transform: skew(-50deg);
-    transform: skew(-50deg);
-  }
-  15% {
-    -moz-transform: skew(-38deg);
-    -ms-transform: skew(-38deg);
-    -webkit-transform: skew(-38deg);
-    transform: skew(-38deg);
-  }
-  20% {
-    -moz-transform: skew(18deg);
-    -ms-transform: skew(18deg);
-    -webkit-transform: skew(18deg);
-    transform: skew(18deg);
-  }
-  25% {
-    -moz-transform: skew(84deg);
-    -ms-transform: skew(84deg);
-    -webkit-transform: skew(84deg);
-    transform: skew(84deg);
-  }
-  30% {
-    -moz-transform: skew(-31deg);
-    -ms-transform: skew(-31deg);
-    -webkit-transform: skew(-31deg);
-    transform: skew(-31deg);
-  }
-  35% {
-    -moz-transform: skew(83deg);
-    -ms-transform: skew(83deg);
-    -webkit-transform: skew(83deg);
-    transform: skew(83deg);
-  }
-  40% {
-    -moz-transform: skew(-70deg);
-    -ms-transform: skew(-70deg);
-    -webkit-transform: skew(-70deg);
-    transform: skew(-70deg);
-  }
-  45% {
-    -moz-transform: skew(72deg);
-    -ms-transform: skew(72deg);
-    -webkit-transform: skew(72deg);
-    transform: skew(72deg);
-  }
-  50% {
-    -moz-transform: skew(69deg);
-    -ms-transform: skew(69deg);
-    -webkit-transform: skew(69deg);
-    transform: skew(69deg);
-  }
-  55% {
-    -moz-transform: skew(50deg);
-    -ms-transform: skew(50deg);
-    -webkit-transform: skew(50deg);
-    transform: skew(50deg);
-  }
-  60% {
-    -moz-transform: skew(-30deg);
-    -ms-transform: skew(-30deg);
-    -webkit-transform: skew(-30deg);
-    transform: skew(-30deg);
-  }
-  65% {
     -moz-transform: skew(79deg);
     -ms-transform: skew(79deg);
     -webkit-transform: skew(79deg);
     transform: skew(79deg);
   }
+  10% {
+    -moz-transform: skew(-10deg);
+    -ms-transform: skew(-10deg);
+    -webkit-transform: skew(-10deg);
+    transform: skew(-10deg);
+  }
+  15% {
+    -moz-transform: skew(-50deg);
+    -ms-transform: skew(-50deg);
+    -webkit-transform: skew(-50deg);
+    transform: skew(-50deg);
+  }
+  20% {
+    -moz-transform: skew(-54deg);
+    -ms-transform: skew(-54deg);
+    -webkit-transform: skew(-54deg);
+    transform: skew(-54deg);
+  }
+  25% {
+    -moz-transform: skew(-62deg);
+    -ms-transform: skew(-62deg);
+    -webkit-transform: skew(-62deg);
+    transform: skew(-62deg);
+  }
+  30% {
+    -moz-transform: skew(12deg);
+    -ms-transform: skew(12deg);
+    -webkit-transform: skew(12deg);
+    transform: skew(12deg);
+  }
+  35% {
+    -moz-transform: skew(75deg);
+    -ms-transform: skew(75deg);
+    -webkit-transform: skew(75deg);
+    transform: skew(75deg);
+  }
+  40% {
+    -moz-transform: skew(-79deg);
+    -ms-transform: skew(-79deg);
+    -webkit-transform: skew(-79deg);
+    transform: skew(-79deg);
+  }
+  45% {
+    -moz-transform: skew(-45deg);
+    -ms-transform: skew(-45deg);
+    -webkit-transform: skew(-45deg);
+    transform: skew(-45deg);
+  }
+  50% {
+    -moz-transform: skew(30deg);
+    -ms-transform: skew(30deg);
+    -webkit-transform: skew(30deg);
+    transform: skew(30deg);
+  }
+  55% {
+    -moz-transform: skew(-47deg);
+    -ms-transform: skew(-47deg);
+    -webkit-transform: skew(-47deg);
+    transform: skew(-47deg);
+  }
+  60% {
+    -moz-transform: skew(42deg);
+    -ms-transform: skew(42deg);
+    -webkit-transform: skew(42deg);
+    transform: skew(42deg);
+  }
+  65% {
+    -moz-transform: skew(-73deg);
+    -ms-transform: skew(-73deg);
+    -webkit-transform: skew(-73deg);
+    transform: skew(-73deg);
+  }
   70% {
-    -moz-transform: skew(47deg);
-    -ms-transform: skew(47deg);
-    -webkit-transform: skew(47deg);
-    transform: skew(47deg);
+    -moz-transform: skew(-89deg);
+    -ms-transform: skew(-89deg);
+    -webkit-transform: skew(-89deg);
+    transform: skew(-89deg);
   }
   75% {
-    -moz-transform: skew(-12deg);
-    -ms-transform: skew(-12deg);
-    -webkit-transform: skew(-12deg);
-    transform: skew(-12deg);
+    -moz-transform: skew(84deg);
+    -ms-transform: skew(84deg);
+    -webkit-transform: skew(84deg);
+    transform: skew(84deg);
   }
   80% {
     -moz-transform: skew(-35deg);
@@ -378,277 +396,277 @@ html {
     transform: skew(-35deg);
   }
   85% {
-    -moz-transform: skew(34deg);
-    -ms-transform: skew(34deg);
-    -webkit-transform: skew(34deg);
-    transform: skew(34deg);
+    -moz-transform: skew(-11deg);
+    -ms-transform: skew(-11deg);
+    -webkit-transform: skew(-11deg);
+    transform: skew(-11deg);
   }
   90% {
-    -moz-transform: skew(-48deg);
-    -ms-transform: skew(-48deg);
-    -webkit-transform: skew(-48deg);
-    transform: skew(-48deg);
+    -moz-transform: skew(38deg);
+    -ms-transform: skew(38deg);
+    -webkit-transform: skew(38deg);
+    transform: skew(38deg);
   }
   95% {
-    -moz-transform: skew(42deg);
-    -ms-transform: skew(42deg);
-    -webkit-transform: skew(42deg);
-    transform: skew(42deg);
+    -moz-transform: skew(-24deg);
+    -ms-transform: skew(-24deg);
+    -webkit-transform: skew(-24deg);
+    transform: skew(-24deg);
   }
 }
 @-moz-keyframes noise {
   0% {
-    background-position: -31px 66px;
+    background-position: 49px 5px;
   }
   10% {
-    background-position: 13px 7px;
+    background-position: -7px 18px;
   }
   20% {
-    background-position: 77px 89px;
+    background-position: 48px 10px;
   }
   30% {
-    background-position: -11px -31px;
+    background-position: 94px 46px;
   }
   40% {
-    background-position: 44px -50px;
+    background-position: 53px 93px;
   }
   50% {
-    background-position: -34px 21px;
+    background-position: -45px -67px;
   }
   60% {
-    background-position: 96px -70px;
+    background-position: 94px 97px;
   }
   70% {
-    background-position: -38px -79px;
+    background-position: 6px 98px;
   }
   80% {
-    background-position: 0px -46px;
+    background-position: 98px -43px;
   }
   90% {
-    background-position: 72px 28px;
+    background-position: -39px 16px;
   }
 }
 @-webkit-keyframes noise {
   0% {
-    background-position: 30px -47px;
+    background-position: 79px -43px;
   }
   10% {
-    background-position: -62px 76px;
+    background-position: 18px -26px;
   }
   20% {
-    background-position: 4px 18px;
+    background-position: -2px -87px;
   }
   30% {
-    background-position: 62px 16px;
+    background-position: -66px -48px;
   }
   40% {
-    background-position: -30px 27px;
+    background-position: 67px -8px;
   }
   50% {
-    background-position: 72px -7px;
+    background-position: -19px -97px;
   }
   60% {
-    background-position: 67px -87px;
+    background-position: 71px 75px;
   }
   70% {
-    background-position: -88px 24px;
+    background-position: 17px -71px;
   }
   80% {
-    background-position: -78px -76px;
+    background-position: -14px -18px;
   }
   90% {
-    background-position: 98px -8px;
+    background-position: 75px 79px;
   }
 }
 @keyframes noise {
   0% {
-    background-position: -95px -40px;
+    background-position: -79px 5px;
   }
   10% {
-    background-position: 3px 84px;
+    background-position: -65px -93px;
   }
   20% {
-    background-position: 90px 56px;
+    background-position: 79px 86px;
   }
   30% {
-    background-position: -47px -96px;
+    background-position: 84px -62px;
   }
   40% {
-    background-position: 77px 30px;
+    background-position: 55px 27px;
   }
   50% {
-    background-position: 64px -76px;
+    background-position: 90px 57px;
   }
   60% {
-    background-position: -77px -93px;
+    background-position: -50px -3px;
   }
   70% {
-    background-position: 70px 0px;
+    background-position: -25px -42px;
   }
   80% {
-    background-position: -83px -80px;
+    background-position: 79px 74px;
   }
   90% {
-    background-position: 60px 53px;
+    background-position: 55px 15px;
   }
 }
 @-moz-keyframes bar {
   0% {
-    height: 416px;
-    top: 63%;
-    opacity: 0.06;
+    height: 472px;
+    top: 82%;
+    opacity: 0.53;
   }
   10% {
-    height: 601px;
-    top: 27%;
-    opacity: 0.18;
+    height: 454px;
+    top: 47%;
+    opacity: 0.19;
   }
   20% {
-    height: 203px;
-    top: 84%;
-    opacity: 0.45;
+    height: 75px;
+    top: 28%;
+    opacity: 0.12;
   }
   30% {
-    height: 624px;
-    top: 44%;
-    opacity: 0.34;
+    height: 84px;
+    top: 85%;
+    opacity: 0.46;
   }
   40% {
-    height: 359px;
-    top: 5%;
-    opacity: 0.71;
+    height: 85px;
+    top: 45%;
+    opacity: 0.68;
   }
   50% {
-    height: 261px;
-    top: 15%;
-    opacity: 0.39;
+    height: 130px;
+    top: 84%;
+    opacity: 0.32;
   }
   60% {
-    height: 616px;
-    top: 93%;
-    opacity: 0.13;
-  }
-  70% {
-    height: 221px;
-    top: 78%;
-    opacity: 0.22;
-  }
-  80% {
-    height: 399px;
-    top: 39%;
+    height: 161px;
+    top: 22%;
     opacity: 0.16;
   }
+  70% {
+    height: 346px;
+    top: 15%;
+    opacity: 0.61;
+  }
+  80% {
+    height: 116px;
+    top: 37%;
+    opacity: 0.19;
+  }
   90% {
-    height: 370px;
-    top: 90%;
-    opacity: 0.09;
+    height: 265px;
+    top: 31%;
+    opacity: 0.41;
   }
 }
 @-webkit-keyframes bar {
   0% {
-    height: 215px;
-    top: 39%;
-    opacity: 0.56;
+    height: 298px;
+    top: 95%;
+    opacity: 0.58;
   }
   10% {
-    height: 212px;
-    top: 94%;
-    opacity: 0.59;
+    height: 71px;
+    top: 72%;
+    opacity: 0.21;
   }
   20% {
-    height: 612px;
-    top: 66%;
-    opacity: 0.38;
+    height: 273px;
+    top: 8%;
+    opacity: 0.69;
   }
   30% {
-    height: 90px;
-    top: 22%;
-    opacity: 0.23;
+    height: 447px;
+    top: 44%;
+    opacity: 0.72;
   }
   40% {
-    height: 73px;
-    top: 4%;
-    opacity: 0.27;
-  }
-  50% {
-    height: 466px;
-    top: 6%;
-    opacity: 0.65;
-  }
-  60% {
-    height: 469px;
-    top: 99%;
-    opacity: 0.5;
-  }
-  70% {
-    height: 588px;
-    top: 27%;
-    opacity: 0.79;
-  }
-  80% {
-    height: 484px;
-    top: 81%;
+    height: 401px;
+    top: 84%;
     opacity: 0.41;
   }
+  50% {
+    height: 518px;
+    top: 6%;
+    opacity: 0.2;
+  }
+  60% {
+    height: 327px;
+    top: 8%;
+    opacity: 0.24;
+  }
+  70% {
+    height: 372px;
+    top: 17%;
+    opacity: 0.41;
+  }
+  80% {
+    height: 590px;
+    top: 64%;
+    opacity: 0.04;
+  }
   90% {
-    height: 273px;
-    top: 96%;
-    opacity: 0.26;
+    height: 408px;
+    top: 40%;
+    opacity: 0.09;
   }
 }
 @keyframes bar {
   0% {
-    height: 610px;
-    top: 15%;
-    opacity: 0.32;
+    height: 130px;
+    top: 60%;
+    opacity: 0.72;
   }
   10% {
-    height: 579px;
-    top: 25%;
-    opacity: 0.08;
+    height: 259px;
+    top: 41%;
+    opacity: 0.26;
   }
   20% {
-    height: 49px;
-    top: 17%;
-    opacity: 0.46;
+    height: 180px;
+    top: 85%;
+    opacity: 0.37;
   }
   30% {
-    height: 51px;
-    top: 62%;
-    opacity: 0.73;
+    height: 287px;
+    top: 22%;
+    opacity: 0.54;
   }
   40% {
-    height: 422px;
-    top: 25%;
-    opacity: 0.7;
+    height: 96px;
+    top: 77%;
+    opacity: 0.25;
   }
   50% {
-    height: 485px;
-    top: 31%;
-    opacity: 0.21;
+    height: 85px;
+    top: 96%;
+    opacity: 0.13;
   }
   60% {
-    height: 488px;
-    top: 76%;
-    opacity: 0.67;
+    height: 222px;
+    top: 19%;
+    opacity: 0.5;
   }
   70% {
-    height: 69px;
-    top: 66%;
-    opacity: 0.17;
+    height: 168px;
+    top: 4%;
+    opacity: 0.79;
   }
   80% {
-    height: 591px;
-    top: 10%;
-    opacity: 0.66;
+    height: 109px;
+    top: 2%;
+    opacity: 0.56;
   }
   90% {
-    height: 585px;
-    top: 83%;
-    opacity: 0.62;
+    height: 627px;
+    top: 36%;
+    opacity: 0.33;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_noize\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_noize\.scss}line{font-family:\0000332}}
 .glitch {
   position: absolute;
   left: 0;
@@ -665,14 +683,14 @@ html {
   -webkit-animation: noise 0.2s infinite;
   animation: noise 0.2s infinite;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_noize\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_noize\.scss}line{font-family:\0000345}}
 .glitch:before {
   content: "";
   display: inline-block;
   vertical-align: middle;
   height: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/\!cat_dev\/\!cat\/styles\/_noize\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/wart\/webdev\/404\/styles\/_noize\.scss}line{font-family:\0000351}}
 .glitch:after {
   content: "";
   display: block;
