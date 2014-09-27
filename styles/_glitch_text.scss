@@ -1,0 +1,47 @@
+.glitch_text {
+	position:relative;
+	line-height: 1;
+	text-shadow: 0 0 15px rgba(#fff, 0.5);
+
+	&:after,
+	&:before {
+		text-shadow: inherit;
+		content:attr(data-text);
+		position:absolute;
+		top:0;
+		color: #f48f8f;
+		background: rgba(102, 19, 43, 0.2);
+		overflow:hidden;
+		clip:rect(0,9999px,0,0);
+	}
+
+  	&:after {
+		left:2px;
+		text-shadow:-1px 0 red;
+		@include animation(noise-anim 2s infinite linear alternate-reverse);
+	}
+
+	&:before {
+		left:-2px;
+		text-shadow:1px 0 green;
+		@include animation(noise-anim-2 3s infinite linear alternate-reverse);
+	}
+}
+
+@include keyframes(noise-anim) {
+	$steps:20;
+	@for $i from 0 through $steps{
+		#{percentage($i*(1/$steps))}{
+			clip:rect(random(100)+px,9999px,random(200)+px,0);
+		}
+	}
+}
+
+@include keyframes(noise-anim-2) {
+	$steps:20;
+	@for $i from 0 through $steps{
+		#{percentage($i*(1/$steps))}{
+			clip:rect(random(100)+px,9999px,random(200)+px,0);
+		}
+	}
+}

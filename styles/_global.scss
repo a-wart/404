@@ -3,7 +3,8 @@
 html, body {
 	height:100%;
 	min-width: 1024px;
-	font-family:'Open Sans';font-style:normal;
+	font-family:'Open Sans';
+	font-style:normal;
 	font-weight:700;
 }
 
@@ -11,15 +12,29 @@ html {
 	font-size: 100.01%;
 }
 
-.header {
-	font-size: 16rem;
-	display: inline-block;
+.header,
+.subheader {
     vertical-align: middle;
     position: relative;
     z-index: 1;
+
+	&::selection {
+		background: red;
+	}
+}
+
+.header {
+	display: inline-block;
+	font-size: 16rem;
 }
 
 .subheader {
-	font-size: 6rem;
+	font-size: 3rem;
+	position: absolute;
 	color: #f48f8f;
+	@include text-shadow(0 0 15px rgba(255, 255, 255, 0.5));
+	left: 0;
+	right: 0;
+	top: 50%;
+	margin-top: 7.5rem;
 }
