@@ -1,3 +1,3 @@
 # 404 page example
 
-![Screenshot](http://sergey-serkov.ru/)
+![Screenshot](https://pbs.twimg.com/media/B-DkQ83IQAIWXIk.jpg:large)
